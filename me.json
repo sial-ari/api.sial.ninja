@@ -1,0 +1,21 @@
+{
+    "me": {
+        "name": "Vladimir (sial) Todorov",
+        "bio": "Jobless psychonaut with affinity to Linux and other open source tech.",
+        "contact": {
+            "email": "sial@macrew.eu",
+            "facebook": "https://www.facebook.com/sial.ninja",
+            "github": "https://github.com/sial-ari",
+            "keybase": "https://keybase.io/sial"
+        },
+        "projects": [
+            {
+                "title": "This API",
+                "date": "November 2016",
+                "description": "My personal API which will aggregate info from the various services i own and give it to the public", 
+                "img": null,
+                "url": "https://github.com/sial-ari/api.sial.ninja"
+            }
+        ]
+    }
+}
